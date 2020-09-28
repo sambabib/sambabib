@@ -1,4 +1,4 @@
-<a href="https://ibb.co/Wy3sCvN"><img src="https://i.ibb.co/0MXQ5yp/rick-morty-chilln.png" alt="rick-morty-chilln" border="0"></a>
+<a href="https://ibb.co/Wy3sCvN"><img src="https://i.ibb.co/0MXQ5yp/rick-morty-chilln.png" alt="rick-morty-chilln" border="0" width="100%"></a>
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
