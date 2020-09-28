@@ -1,4 +1,4 @@
-![header](https://github.com/[sambabib]/[sambabib]/blob/[images]/rick_morty_chilln?raw=true)
+<a href="https://ibb.co/Wy3sCvN"><img src="https://i.ibb.co/0MXQ5yp/rick-morty-chilln.png" alt="rick-morty-chilln" border="0"></a>
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
