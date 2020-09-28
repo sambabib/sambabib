@@ -1,5 +1,8 @@
+<img src="https://ibb.co/Wy3sCvN"> 
 
-### Hi there 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+### My name's Kite, I am from Nigeria
 
 
 <h3> 👨🏻‍💻 About Me </h3>
