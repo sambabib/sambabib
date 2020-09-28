@@ -1,8 +1,8 @@
-<img src="https://ibb.co/Wy3sCvN"> 
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### My name's Kite, I am from Nigeria
+<h3> My name's Kite, no not Kite, yes Kite. I live and write code out of my space shuttle in Lagos, Nigeria. I have an interesting 
+relationship with sitcoms and adult cartoons. You can't guess which one's my favorite, or can you? 👁️</h3>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -22,8 +22,6 @@
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
 <br/>
-
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVS1508&show_icons=true)](https://github.com/AVS1508)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
