@@ -1,4 +1,4 @@
-
+![header](https://ibb.co/Wy3sCvN)
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -8,7 +8,7 @@ relationship with sitcoms and adult cartoons. You can't guess which one's my fav
 
 <h3>🛠 Here's some of the technologies I use</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | TailwindCSS | Node.js | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | TailwindCSS | React | Node.js | Express.js
 - 🛢 &nbsp; PostgreSQL | MongoDB
 - 🖥 &nbsp; Figma | Illustrator | Invision Studio
 
