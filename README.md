@@ -1,4 +1,5 @@
-[![Header](https://raw.githubusercontent.com/sambabib/<OWNER>/<OWNER>/rick n morty chilln.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 
 
 ### Hi there 👋
