@@ -1,6 +1,6 @@
 <a href="https://ibb.co/Wy3sCvN"><img src="https://i.ibb.co/0MXQ5yp/rick-morty-chilln.png" alt="rick-morty-chilln" border="0" width="100%"></a>
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name's Kite, no not Kite, yes Kite. I'm a front-end dev and UI enthusiast living and writing code out of my space shuttle in Lagos, Nigeria. I have an interesting 
 relationship with sitcoms and adult cartoons. You can't guess which one's my favorite, or can you? 👁️
