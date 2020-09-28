@@ -1,4 +1,4 @@
-![header](https://ibb.co/Wy3sCvN)
+![header](https://github.com/[sambabib]/[sambabib]/blob/[images]/rick_morty_chilln?raw=true)
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -17,6 +17,6 @@ relationship with sitcoms and adult cartoons. You can't guess which one's my fav
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-<a href="https://www.instagram.com/__kitts/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-__kitts-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.twitter.com/__kitts/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-__kitts-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:adekyte@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adekyte@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
