@@ -2,8 +2,8 @@
 
 ### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name's Kite, no not Kite, yes Kite. I'm a front-end dev and UI enthusiast living and writing code out of my space shuttle in Lagos, Nigeria. I have an interesting 
-relationship with sitcoms and adult cartoons. You can't guess which one's my favorite, or can you? 👁️
+My name's Kite, no not Kite, yes Kite. I'm a frontend engineer and UI enthusiast living and writing code out of my spacepod in Lagos, Nigeria. I have an interesting 
+relationship with sitcoms and adult cartoons. You can't guess which one's my favorite, can you? 👁️
 
 
 <h3>🛠 Here's some of the technologies I use</h3>
