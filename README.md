@@ -2,7 +2,7 @@
 
 ### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name's Kite, no not Kite, yes Kite. I'm a frontend engineer and UI enthusiast living and writing code out of my spacepod in Lagos, Nigeria. I have an interesting 
+Hi, I'm Kite. I write code out of a spacepod in Lagos, Nigeria. I have an interesting 
 relationship with sitcoms and adult cartoons. You can't guess which one's my favorite, can you? 👁️
 
 
@@ -10,7 +10,6 @@ relationship with sitcoms and adult cartoons. You can't guess which one's my fav
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | TailwindCSS | React | Node.js | Express.js
 - 🛢 &nbsp; PostgreSQL | MongoDB
-- 🖥 &nbsp; Figma | Illustrator | Invision Studio
 
 <br/>
 
