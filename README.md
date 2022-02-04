@@ -5,12 +5,6 @@
 Hi, I'm Kite. I write code out of a spacepod in Lagos, Nigeria. I have an interesting 
 relationship with sitcoms and adult cartoons. You can't guess which one's my favorite, can you? 👁️
 
-
-<h3>🛠 Here's some of the technologies I use</h3>
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | TailwindCSS | React | Node.js | Express.js
-- 🛢 &nbsp; PostgreSQL | MongoDB
-
 <br/>
 
 <h3> 🤝🏻 Connect with Me </h3>
