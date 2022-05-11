@@ -2,7 +2,7 @@
 
 ### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi, I'm Kite. I write code out of a spacepod in Lagos, Nigeria. I have an interesting 
+Hi, I'm Kite. I write code out of a space pod in Lagos, Nigeria. I have an interesting 
 relationship with sitcoms and adult cartoons. You can't guess which one's my favorite, can you? 👁️
 
 <br/>
